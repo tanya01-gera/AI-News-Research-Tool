@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+langchain
+langchain-groq
+python-dotenv
+requests
+newsapi-python
